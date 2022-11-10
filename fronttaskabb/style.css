@@ -24,7 +24,8 @@ a{
 }
 
 #Header-1 .left a{
-    margin-right: 12px;
+    margin-right: 18px;
+    font-weight: 100;
     color: #666;
 }
 
