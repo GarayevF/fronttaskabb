@@ -170,7 +170,7 @@ a{
 }
 
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
     #Header-1{
         display: none;
     }
